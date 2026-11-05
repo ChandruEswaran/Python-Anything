@@ -16,7 +16,7 @@ Welcome! This repository brings together Python projects built to explore everyd
 | [Heart Drawing](./HeartDrawing/README.md) | A heart-inspired shape drawn with Turtle graphics |
 | [OTP Verification System](./OTP_Verification_System/README.md) | Email-based one-time password verification |
 | [Pizza Bill Calculator](./Pizza%20Order/README.md) | A simple interactive pizza order and bill calculator |
-| [Simple Task Maker](./Simple%20Task%20maker/README.md) | An in-memory command-line task manager |
+| [Task Maker](./Task_Maker/README.md) | An in-memory command-line task manager |
 | [Gmail and Zoho SMTP Tests](./Smtp_test/README.md) | Shared, configurable SMTP test scripts |
 | [Student Grade Management](./Student_Grade_Management/README.md) | Student records, marks, and reports with SQLite |
 
